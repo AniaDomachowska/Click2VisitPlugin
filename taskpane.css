@@ -94,3 +94,25 @@ b {
     border-color: limegreen;
     color: white;
 }
+
+.c2v-add-to-system-button, .c2v-refresh-button {
+    background-color: limegreen;
+    border-color: limegreen;
+    color: white;
+    width: 200px !important;
+}
+
+.c2v-green-header {
+    color: green
+}
+
+.c2v-visitor-name {
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+.align-bottom {
+    display: table-cell;
+    vertical-align: bottom;
+    float: none;
+}
