@@ -103,7 +103,8 @@ b {
 }
 
 .c2v-green-header {
-    color: green
+    color: green !important;
+    text-align: center !important;
 }
 
 .c2v-visitor-name {
@@ -115,4 +116,23 @@ b {
     display: table-cell;
     vertical-align: bottom;
     float: none;
+}
+
+.green-text {
+    color: green !important;
+    font-weight: bold;
+}
+
+.c2v-plates-input {
+    width: 270px;
+    margin-left: 10px !important;
+}
+
+.c2v-button-section {
+    margin-left: 80px !important;
+    margin-bottom: 10px !important;
+}
+
+.c2v-button-submit {
+    margin-left: 40px !important;
 }
