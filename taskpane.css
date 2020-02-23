@@ -66,12 +66,12 @@
  }
  
 .ms-Button.ms-Button--selected .ms-Button-label {
-  color: #0078d7;
+  color: #00B0F0;
 }
 
 .ms-Button.ms-Button--hero:hover .ms-Button-label,
 .ms-Button.ms-Button--hero:focus .ms-Button-label{
-  color: #005a9e;
+  color: #00B0F0;
   cursor: pointer;
 }
 
@@ -80,8 +80,8 @@ b {
 }
 
 .ms-Button--who-is-who--selected {
-    background-color: #0078d7 !important;
-    border-color: #005a9e !important;
+    background-color: #00B0F0 !important;
+    border-color: #00B0F0 !important;
 }
 
 .ms-Button--who-is-who--unselected {
@@ -95,7 +95,7 @@ b {
     color: white;
 }
 
-.c2v-add-to-system-button, .c2v-refresh-button {
+.c2v-button {
     background-color: limegreen;
     border-color: limegreen;
     color: white;
@@ -108,7 +108,7 @@ b {
 }
 
 .c2v-visitor-name {
-    color: dodgerblue;
+    color: #00B0F0;
     font-weight: bold;
     margin-bottom: 10px !important;
     text-align: center;
