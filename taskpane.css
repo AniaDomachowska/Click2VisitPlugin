@@ -126,18 +126,18 @@ b {
 }
 
 .c2v-plates-input {
-    width: 80%;
+    width: 90%;
     margin-left: 10px !important;
     margin-bottom: 2px !important;
 }
 
 .c2v-first-name-input {
-    width: 40%;
+    width: 45%;
     margin-left: 10px !important;
 }
 
 .c2v-last-name-input {
-    width: 40%;
+    width: 45%;
 }
 
 .c2v-button-section {
@@ -149,4 +149,8 @@ b {
 
 .c2v-button-submit {
     margin-left: 40px !important;
+}
+
+.c2v-error {
+    color:red;
 }
