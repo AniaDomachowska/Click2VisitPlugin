@@ -102,6 +102,20 @@ b {
     width: 200px !important;
 }
 
+.c2v-button-yes {
+    background-color: limegreen;
+    border-color: limegreen;
+    color: white;
+    width: 100px !important;
+}
+
+.c2v-button-no {
+    background-color: red;
+    border-color: red;
+    color: white;
+    width: 100px !important;
+}
+
 .c2v-green-header {
     color: green !important;
     text-align: center !important;
@@ -147,10 +161,10 @@ b {
 
 }
 
-.c2v-button-submit {
-    margin-left: 40px !important;
-}
-
 .c2v-error {
     color:red;
+}
+
+.spacer {
+    margin-left: 40px;
 }
