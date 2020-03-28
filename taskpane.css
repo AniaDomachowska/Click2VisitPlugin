@@ -90,21 +90,21 @@ b {
 }
 
 .ms-Button {
-    background-color: limegreen;
-    border-color: limegreen;
+    background-color: #00B0F0;
+    border-color: #00B0F0;
     color: white;
 }
 
 .c2v-button {
-    background-color: limegreen;
-    border-color: limegreen;
+    background-color: #00B0F0;
+    border-color: #00B0F0;
     color: white;
     width: 200px !important;
 }
 
 .c2v-button-yes {
-    background-color: limegreen;
-    border-color: limegreen;
+    background-color: #00B0F0;
+    border-color: #00B0F0;
     color: white;
     width: 100px !important;
 }
@@ -114,6 +114,12 @@ b {
     border-color: red;
     color: white;
     width: 100px !important;
+}
+
+.login-button {
+    background-color: #00B0F0;
+    border-color: #00B0F0;
+    color: white;
 }
 
 .c2v-green-header {
